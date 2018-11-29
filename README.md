@@ -19,10 +19,10 @@ Try to implement over raspberry pi using pi cam and TensorflowLite
 Real time testing : 
 ![alt text](https://raw.githubusercontent.com/Sumanthnr93/face_recognition/master/Sumanth.jpg)
 
-Requirements: 
-Tensorflow
-Keras
-numpy
-openCv
-matplotlib
+Requirements:\ 
+Tensorflow\
+Keras\
+numpy\
+openCv\
+matplotlib\
 
