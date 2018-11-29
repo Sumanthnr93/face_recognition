@@ -16,3 +16,13 @@ Try to implement over raspberry pi using pi cam and TensorflowLite
 
 [VGG16 weights](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view)
 
+Real time testing : 
+![alt text](https://raw.githubusercontent.com/Sumanthnr93/face_recognition/master/Sumanth.jpg)
+
+Requirements: 
+Tensorflow
+Keras
+numpy
+openCv
+matplotlib
+
