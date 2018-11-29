@@ -14,3 +14,5 @@ Real time analysis will improve with dual camera
 ToDo
 Try to implement over raspberry pi using pi cam and TensorflowLite
 
+[VGG16 weights](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view)
+
